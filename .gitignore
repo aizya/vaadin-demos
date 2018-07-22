@@ -1,4 +1,4 @@
 .idea
 *.iml
 target
-vaadin-demo.iml
+vaadin-demos.iml
