@@ -8,7 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="contexthelp" />
         <module name="contexthelp-demo" />
-        <module name="mybatis-spring-boot" />
+        <module name="suggest-field" />
         <module name="vaadin-context-help" />
         <module name="vaadinjs" />
       </profile>
@@ -18,6 +18,7 @@
       <module name="contexthelp-demo" target="1.8" />
       <module name="contexthelp-modules" target="1.5" />
       <module name="mybatis-spring-boot" target="1.8" />
+      <module name="suggest-field" target="1.8" />
       <module name="vaadin-context-help" target="1.8" />
       <module name="vaadin-demos" target="1.5" />
       <module name="vaadinjs" target="1.8" />

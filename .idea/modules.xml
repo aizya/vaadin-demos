@@ -5,7 +5,7 @@
       <module fileurl="file://$USER_HOME$/Downloads/vaadins/ContextHelp-master/addon/contexthelp.iml" filepath="$USER_HOME$/Downloads/vaadins/ContextHelp-master/addon/contexthelp.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/vaadins/ContextHelp-master/demo/contexthelp-demo.iml" filepath="$USER_HOME$/Downloads/vaadins/ContextHelp-master/demo/contexthelp-demo.iml" />
       <module fileurl="file://$USER_HOME$/Downloads/vaadins/ContextHelp-master/contexthelp-modules.iml" filepath="$USER_HOME$/Downloads/vaadins/ContextHelp-master/contexthelp-modules.iml" />
-      <module fileurl="file://$USER_HOME$/playground/mybatis/MyBatis-Spring-Boot/mybatis-spring-boot.iml" filepath="$USER_HOME$/playground/mybatis/MyBatis-Spring-Boot/mybatis-spring-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suggest-field/suggest-field.iml" filepath="$PROJECT_DIR$/suggest-field/suggest-field.iml" />
       <module fileurl="file://$PROJECT_DIR$/vaadin-context-help/vaadin-context-help.iml" filepath="$PROJECT_DIR$/vaadin-context-help/vaadin-context-help.iml" />
       <module fileurl="file://$PROJECT_DIR$/vaadin-demos.iml" filepath="$PROJECT_DIR$/vaadin-demos.iml" />
       <module fileurl="file://$PROJECT_DIR$/vaadinjs/vaadinjs.iml" filepath="$PROJECT_DIR$/vaadinjs/vaadinjs.iml" />

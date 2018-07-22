@@ -11,6 +11,7 @@
     <modules>
         <module>vaadinjs</module>
         <module>vaadin-context-help</module>
+        <module>suggest-field</module>
     </modules>
 
 </project>

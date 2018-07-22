@@ -3,10 +3,12 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="gwt" url="file://$USER_HOME$/Downloads/vaadins/ContextHelp-master/addon" />
     <file type="gwt" url="file://$USER_HOME$/Downloads/vaadins/ContextHelp-master/demo" />
+    <file type="gwt" url="file://$PROJECT_DIR$/suggest-field" />
     <file type="gwt" url="file://$PROJECT_DIR$/vaadin-context-help" />
     <file type="gwt" url="file://$PROJECT_DIR$/vaadinjs" />
     <file type="Osmorc" url="file://$USER_HOME$/Downloads/vaadins/ContextHelp-master/addon" />
     <file type="web" url="file://$USER_HOME$/Downloads/vaadins/ContextHelp-master/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/suggest-field" />
     <file type="web" url="file://$PROJECT_DIR$/vaadin-context-help" />
     <file type="web" url="file://$PROJECT_DIR$/vaadinjs" />
   </component>
@@ -14,7 +16,6 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$USER_HOME$/playground/mybatis/MyBatis-Spring-Boot/pom.xml" />
         <option value="$USER_HOME$/Downloads/vaadins/ContextHelp-master/pom.xml" />
       </list>
     </option>

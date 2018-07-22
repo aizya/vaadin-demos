@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="suggest-field:war">
+    <output-path>$PROJECT_DIR$/suggest-field/target</output-path>
+    <root id="archive" name="suggest-field-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="suggest-field:war exploded" />
+    </root>
+  </artifact>
+</component>
