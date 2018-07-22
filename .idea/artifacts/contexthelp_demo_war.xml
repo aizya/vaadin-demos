@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="contexthelp-demo:war">
+    <output-path>$USER_HOME$/Downloads/vaadins/ContextHelp-master/demo/target</output-path>
+    <root id="archive" name="contexthelp-demo-3.0.0.war">
+      <element id="artifact" artifact-name="contexthelp-demo:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Vaadin Server">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/playground/vaadin/sample.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
